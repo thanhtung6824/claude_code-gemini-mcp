@@ -51,7 +51,7 @@ mcp__gemini-collab__gemini_code_review
 mcp__gemini-collab__gemini_brainstorm
   topic: "How to scale a web app to 1M users"
 
-Or simply ask claude code to correlate with Gemini, it is not rocket sciene... (Author's note) 
+Or simply ask claude code to correlate with Gemini, it is not a rocket sciene... (Author's note) 
 ```
 
 ## 🛠️ What This Does
