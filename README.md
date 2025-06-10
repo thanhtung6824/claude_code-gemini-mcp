@@ -38,6 +38,7 @@ Start Claude Code anywhere and use these commands:
 claude
 
 # Ask Gemini anything
+Or Simply ask claude code to correlate with Gemini (Author's note)
 mcp__gemini-collab__ask_gemini
   prompt: "Explain quantum computing in simple terms"
 
